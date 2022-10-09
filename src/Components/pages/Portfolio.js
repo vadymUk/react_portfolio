@@ -28,7 +28,7 @@ const Portfolio = () => {
                 <div className='divider'></div>
                 <div className='portfolio__wrapper'>
                     <a
-                        href='https://github.com/vadymUk/react-dev_Heroes.git'
+                        href='https://vadymUk.github.io/react_dev-heroes'
                         target='_blank'
                         className='portfolio__item'
                         rel='noreferrer'
