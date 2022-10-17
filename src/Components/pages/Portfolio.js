@@ -7,6 +7,7 @@ import marvel from "../img/works/Marvel.jpeg";
 import picture from "../img/works/picture.png";
 import shop from "../img/works/Shop.jpeg";
 import movies from "../img/works/Movies.jpeg";
+import meal from "../img/works/meal.jpeg";
 const Portfolio = () => {
     return (
         <section
@@ -113,6 +114,17 @@ const Portfolio = () => {
                         <img
                             src={movies}
                             alt='movies'
+                        />
+                    </a>
+                    <a
+                        href='https://vadymUk.github.io/react_dev-meal'
+                        target='_blank'
+                        className='portfolio__item'
+                        rel='noreferrer'
+                    >
+                        <img
+                            src={meal}
+                            alt='meal'
                         />
                     </a>
                 </div>
