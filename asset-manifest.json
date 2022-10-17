@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.94403fe9.css",
-    "main.js": "/portfolio/static/js/main.b514faeb.js",
+    "main.js": "/portfolio/static/js/main.2fed71b2.js",
     "static/media/paprika.jpg": "/portfolio/static/media/paprika.0cc3f1aa75805905d8a7.jpg",
     "static/media/picture.png": "/portfolio/static/media/picture.de9fe88dc77294034356.png",
     "static/media/minuts.jpeg": "/portfolio/static/media/minuts.be30e4c11142eb09790f.jpeg",
@@ -12,6 +12,7 @@
     "static/media/error.gif": "/portfolio/static/media/error.42292aa12b6bc303ce99.gif",
     "static/media/Movies.jpeg": "/portfolio/static/media/Movies.326ac3043b02d4dc8ea4.jpeg",
     "static/media/heroes.jpeg": "/portfolio/static/media/heroes.0a6f92b9b0135dc12ded.jpeg",
+    "static/media/meals.jpeg": "/portfolio/static/media/meals.95a62dd7ec7196deb630.jpeg",
     "static/media/mongo.db.svg": "/portfolio/static/media/mongo.db.38f78a09ea9b00acab0e5cce3d7a7120.svg",
     "static/media/node.js.svg": "/portfolio/static/media/node.js.b8f65effb174c517031c66be933fd01a.svg",
     "static/media/design.svg": "/portfolio/static/media/design.e718634504ccc858fe5bbb60d61cd254.svg",
@@ -30,10 +31,10 @@
     "static/media/Facebook1.svg": "/portfolio/static/media/Facebook1.108ff1dcbe09236e327b2cd2492ccfc2.svg",
     "static/media/telegram.svg": "/portfolio/static/media/telegram.74b9d935b4d549731297c7a76c87a5a0.svg",
     "main.94403fe9.css.map": "/portfolio/static/css/main.94403fe9.css.map",
-    "main.b514faeb.js.map": "/portfolio/static/js/main.b514faeb.js.map"
+    "main.2fed71b2.js.map": "/portfolio/static/js/main.2fed71b2.js.map"
   },
   "entrypoints": [
     "static/css/main.94403fe9.css",
-    "static/js/main.b514faeb.js"
+    "static/js/main.2fed71b2.js"
   ]
 }
