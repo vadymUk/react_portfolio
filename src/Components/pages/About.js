@@ -54,11 +54,11 @@ const About = () => {
                             </div>
                             <div>
                                 <div className='title title_fs14'>
-                                    Web-разработка
+                                    Web-розробка
                                 </div>
                                 <div className='about__skills-text'>
                                     Пройшов курси на Udemy нашого Українця Івана
-                                    Петриченка ʼweb-devʼ, де здобув сучасні
+                                    Петриченка 'web-dev', де здобув сучасні
                                     технології розробки web-сайтів (BEM,scss,
                                     sass, flex, grid, gulp...).
                                 </div>
@@ -73,13 +73,14 @@ const About = () => {
                             </div>
                             <div>
                                 <div className='title title_fs14'>
-                                    Разработка приложений
+                                    Розробка додатків
                                 </div>
                                 <div className='about__skills-text'>
                                     Також ще пройшов курси на Udemy теж Івана
-                                    Петриченка ʼjs,react,reduxʼ, де здобув
-                                    сучасні технології розробки web-додатків
-                                    (webpack, redux, toolkit...).
+                                    Петриченка та ще пару інших наставників js,
+                                    react, redux, typescript, де здобув сучасні
+                                    технології розробки web-додатків (webpack,
+                                    redux, toolkit...).
                                 </div>
                             </div>
                         </div>

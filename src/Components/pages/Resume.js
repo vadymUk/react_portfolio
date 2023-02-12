@@ -68,11 +68,11 @@ const Resume = () => {
                                         </h4>
                                         <div className='resume__item-location'>
                                             Курси по Web-разробці, Javascript,
-                                            React
+                                            React, typescript
                                         </div>
                                     </div>
                                     <div className='resume__item-body'>
-                                        Після того як доля спонукала мене з
+                                        Після того як війна спонукала мене з
                                         родиною наразі перебувати у Польщі та
                                         спіткали деякі фінансові проблеми, я
                                         вирішив кардинально змінити своє життя
@@ -108,8 +108,8 @@ const Resume = () => {
                                     <div className='resume__item-body'>
                                         Роблю перші кроки на різних
                                         Freelanc-платформах Польщі, України є
-                                        бажання підтягнувши свої skily і вийти
-                                        на upWork
+                                        бажання підтягнувши свої skily, вийти на
+                                        upWork
                                     </div>
                                 </div>
                             </li>
