@@ -121,6 +121,12 @@ const Contacts = () => {
                                     alt='instagram'
                                 />
                             </a>
+                            <a
+                                href='tel:+4576222842'
+                                className='contacts__tell'
+                            >
+                                <span>Мій тел:</span> +4576222842
+                            </a>
                         </div>
                         <div className='title title_fs14 contacts__text'>
                             Або залиште ваші дані і я сама вам напишу:
