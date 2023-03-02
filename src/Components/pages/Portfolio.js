@@ -51,14 +51,14 @@ const Portfolio = () => {
                         />
                     </a>
                     <a
-                        href='https://github.com/vadymUk/web-dev_Puls.git'
+                        href='https://vadymuk.github.io/react_dev-coasts'
                         target='_blank'
                         className='portfolio__item'
                         rel='noreferrer'
                     >
                         <img
                             src={puls}
-                            alt='pulse'
+                            alt='coast'
                         />
                     </a>
                     <a
