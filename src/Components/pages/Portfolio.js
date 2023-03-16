@@ -62,7 +62,7 @@ const Portfolio = () => {
                         />
                     </a>
                     <a
-                        href='https://github.com/vadymUk/js-native_project-food.git'
+                        href='https://vadymUk.github.io/react_radaxtoolkit'
                         target='_blank'
                         className='portfolio__item'
                         rel='noreferrer'
