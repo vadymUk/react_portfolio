@@ -1,13 +1,14 @@
 import { Link } from "react-router-dom";
 import puls from "../img/works/pulse.jpg";
 import food from "../img/works/paprika.jpg";
-import heroes from "../img/works/heroes.jpeg";
+import foodMarket from "../img/works/foodMarket.jpg";
 import add from "../img/works/Add.jpeg";
 import marvel from "../img/works/Marvel.jpeg";
 import picture from "../img/works/picture.png";
 import shop from "../img/works/Shop.jpeg";
 import movies from "../img/works/Movies.jpeg";
 import meals from "../img/works/meals.jpeg";
+import coast from "../img/works/coast.jpeg";
 const Portfolio = () => {
     return (
         <section
@@ -40,18 +41,18 @@ const Portfolio = () => {
                         />
                     </a>
                     <a
-                        href='https://github.com/vadymUk/react_dev-heroes.git'
+                        href='https://js-native-project-food.vercel.app'
                         target='_blank'
                         className='portfolio__item'
                         rel='noreferrer'
                     >
                         <img
-                            src={heroes}
-                            alt='heroes'
+                            src={foodMarket}
+                            alt='foodMarket'
                         />
                     </a>
                     <a
-                        href='https://vadymuk.github.io/react_dev-coasts'
+                        href='https://web-dev-puls.vercel.app'
                         target='_blank'
                         className='portfolio__item'
                         rel='noreferrer'
@@ -62,7 +63,7 @@ const Portfolio = () => {
                         />
                     </a>
                     <a
-                        href='https://vadymUk.github.io/react_radaxtoolkit'
+                        href='https://vadymuk.github.io/react_redaxtoolkit'
                         target='_blank'
                         className='portfolio__item'
                         rel='noreferrer'
@@ -95,7 +96,7 @@ const Portfolio = () => {
                         />
                     </a>
                     <a
-                        href='https://github.com/vadymUk/js_native-picture.git'
+                        href='https://js-native-picture.vercel.app'
                         target='_blank'
                         className='portfolio__item horizontal'
                         rel='noreferrer'
@@ -136,6 +137,17 @@ const Portfolio = () => {
                         <img
                             src={meals}
                             alt='meals'
+                        />
+                    </a>
+                    <a
+                        href=' https://vadymuk.github.io/react_dev-coasts'
+                        target='_blank'
+                        className='portfolio__item'
+                        rel='noreferrer'
+                    >
+                        <img
+                            src={coast}
+                            alt='coast'
                         />
                     </a>
                 </div>
