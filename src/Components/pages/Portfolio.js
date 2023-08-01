@@ -9,6 +9,7 @@ import shop from "../img/works/Shop.jpeg";
 import movies from "../img/works/Movies.jpeg";
 import meals from "../img/works/meals.jpeg";
 import coast from "../img/works/coast.jpeg";
+import pizza from "../img/works/pizza.jpeg";
 const Portfolio = () => {
     return (
         <section
@@ -148,6 +149,17 @@ const Portfolio = () => {
                         <img
                             src={coast}
                             alt='coast'
+                        />
+                    </a>
+                    <a
+                        href='https://vadymuk.github.io/react_dev-pizza'
+                        target='_blank'
+                        className='portfolio__item'
+                        rel='noreferrer'
+                    >
+                        <img
+                            src={pizza}
+                            alt='pizza'
                         />
                     </a>
                 </div>
