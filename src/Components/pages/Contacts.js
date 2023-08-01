@@ -129,7 +129,7 @@ const Contacts = () => {
                             </a>
                         </div>
                         <div className='title title_fs14 contacts__text'>
-                            Або залиште ваші дані і я сама вам напишу:
+                            Або залиште ваші дані і я сам вам напишу:
                         </div>
                         <form
                             action='#'
