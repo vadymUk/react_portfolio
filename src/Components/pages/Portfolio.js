@@ -10,6 +10,7 @@ import movies from "../img/works/Movies.jpeg";
 import meals from "../img/works/meals.jpeg";
 import coast from "../img/works/coast.jpeg";
 import pizza from "../img/works/pizza.jpeg";
+import crypto from "../img/works/crypto.jpeg";
 const Portfolio = () => {
     return (
         <section
@@ -160,6 +161,17 @@ const Portfolio = () => {
                         <img
                             src={pizza}
                             alt='pizza'
+                        />
+                    </a>
+                    <a
+                        href='https://vadymuk.github.io/react_firebase-crypto'
+                        target='_blank'
+                        className='portfolio__item'
+                        rel='noreferrer'
+                    >
+                        <img
+                            src={crypto}
+                            alt='crypto'
                         />
                     </a>
                 </div>
