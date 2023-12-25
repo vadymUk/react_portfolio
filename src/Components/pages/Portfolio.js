@@ -11,6 +11,7 @@ import meals from "../img/works/meals.jpeg";
 import coast from "../img/works/coast.jpeg";
 import pizza from "../img/works/pizza.jpeg";
 import crypto from "../img/works/crypto.jpeg";
+import PizzasShop from "../img/works/PizzasShop.jpg";
 const Portfolio = () => {
     return (
         <section
@@ -172,6 +173,17 @@ const Portfolio = () => {
                         <img
                             src={crypto}
                             alt='crypto'
+                        />
+                    </a>
+                    <a
+                        href='https://vadymuk.github.io/react_shop-pizzas'
+                        target='_blank'
+                        className='portfolio__item'
+                        rel='noreferrer'
+                    >
+                        <img
+                            src={PizzasShop}
+                            alt='pizzasShop'
                         />
                     </a>
                 </div>
