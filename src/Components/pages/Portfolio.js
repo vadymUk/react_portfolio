@@ -12,6 +12,7 @@ import coast from "../img/works/coast.jpeg";
 import pizza from "../img/works/pizza.jpeg";
 import crypto from "../img/works/crypto.jpeg";
 import PizzasShop from "../img/works/PizzasShop.jpg";
+import bitcoin from "../img/works/bitcoin.jpg";
 const Portfolio = () => {
     return (
         <section
@@ -183,6 +184,17 @@ const Portfolio = () => {
                     >
                         <img
                             src={PizzasShop}
+                            alt='pizzasShop'
+                        />
+                    </a>
+                    <a
+                        href='https://react-crypto-peach.vercel.app'
+                        target='_blank'
+                        className='portfolio__item'
+                        rel='noreferrer'
+                    >
+                        <img
+                            src={bitcoin}
                             alt='pizzasShop'
                         />
                     </a>
